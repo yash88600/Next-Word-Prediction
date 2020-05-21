@@ -6,6 +6,6 @@ Word Embedding used: **Glove.6b.100d.txt** by stanford(https://nlp.stanford.edu/
 
 **MODEL**
 specifications:
-* input: 10 words
-* output: 1 word
-* Accuracy: 70% (which could be further improved by more training)
+            * input: 10 words
+            * output: 1 word
+            * Accuracy: 70% (which could be further improved by more training)
